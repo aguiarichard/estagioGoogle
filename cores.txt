@@ -1,0 +1,4 @@
+azul: #4285F4
+verde: #0F9D58
+amarelo: #F4B400
+vermelho: #DB4437
